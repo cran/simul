@@ -1,0 +1,16 @@
+3f7b6b64c557aa0840818f4fd3d5fbb9 *DESCRIPTION
+a31ec38a8b833b100c2080013d450b4b *NAMESPACE
+109e54f187e72bedd027cc2c603b769e *R/RcppExports.R
+5f89135dde91871a17e308986279d337 *R/checks.R
+c59abf841c2e1cee742f7547f15e7223 *R/data.R
+c0f41e05f474b5755d9b606d74f496f3 *R/simul-package.R
+49d661a090bec912fc6c30fefbcf2de7 *R/simul.R
+93352cd5eb9483f2fcd85530bbbbe850 *README.md
+f9608f5aebd4b60533dfde2a9febbc2d *data/eif.rda
+82fe648c6808571dba760dc06c183977 *man/eif.Rd
+94f2a686ef4549ca8ab40dc160a49c28 *man/simul-package.Rd
+4d7c7c1abbc3125dbce6b5cdc30299a1 *man/simul.Rd
+8413d406c9cfc8cf7d5781faf0dd45d0 *src/RcppExports.cpp
+8350518621a267f72ecc9c0209b27a94 *src/code.cpp
+9ea8fd2330a0758f7939751aff7ffdd0 *tests/testthat.R
+e6c807175c107fb5bcc394b43cef0d43 *tests/testthat/test-checks.R
